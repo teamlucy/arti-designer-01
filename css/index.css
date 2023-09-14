@@ -21,18 +21,18 @@ body {
 	bottom: 30px;
 	left: 50%;
 	transform: translateX(-50%);
-	background: #6BDA01;
+	background: #FFFFFF;
     opacity : 0.9;
 	/* border: 1.2px solid #AF76F0; */
 	/* box-shadow: 0px 0px 48px rgba(198, 120, 255, 0.16); */
-    box-shadow: 0px 0px 25px 0px rgba(173, 172, 172, 0.50);
+    box-shadow: 0px 0px 25px 10px rgba(173, 172, 172, 0.50);
 	color: #494949;
 	padding: 12px 0px;
 	text-decoration: none;
 	border-radius: 5px;
 	font-family: 'NanumSquareNeo-Variable',"Pretendard", Arial, sans-serif;
 	font-size: 13px;
-	width: 64%;
+	width: 80%;
 	max-width: 600px;
 	font-weight: 600;
 }
@@ -49,5 +49,5 @@ body {
 
 img{
     width: 100%;
-    margin-bottom: 150px;
+    margin-bottom: 0px;
 }
